@@ -27,7 +27,7 @@ if (number >= 2) {
 
 // 1. WRITE YOUR DESCRIPTION HERE
 // we name a variable called name and set it to a string called Dane
-// then we set an if statement saying if name is equal to Mary then console.log will read "Hi Mary!"
+// then we set an if statement saying if name is equal to Mary then console.log will read "Hi, Mary!"
 // if the name isnt mary it will then run the else statement in the console which says "How do you do?"
 //
 
@@ -48,8 +48,9 @@ if (name === 'Mary') {
 // defined a variable named secret
 // defined a variable named code and set it to the number 123;
 // then set an if statement that if the code is equal to 123 then secret is equal to 'super'
-//and the value of code is equal to its value multiplied by 2
-//then it will display 'duper' on the console.log
+//then code is set to code multiplied by 2
+//then if the code is less than 250 it will set secret to 'duper'
+//then it will log the secret one more time
 
 //CODE
 /*
@@ -72,9 +73,9 @@ console.log(secret)
 
 // 3. WRITE YOUR DESCRIPTION HERE
 // defined our variables. isStudent was set to a boolean of true. age was set to the number 34. zip was set to the number 55407
-// then we use an if statement stating that if isStudent equal to true and that the zip is more than 80000 the console log would read 'your a student on the west coast'
+// then we use an if statement stating that if isStudent equal to true and that the zip is more than 80000 the console log would read 'your a student on the West Coast'
 // then we use an else if statement that reads if isStudent is equal to false and your age is less than 30 the console will read 'what are your hobbies?'
-// the next if statement reads if isStudent is equal to true the console will read 'Welcome ot Prime!'
+// the next else if statement reads if isStudent is equal to true the console will read 'Welcome ot Prime!'
 //the last else statement sets a default where if none of the above are true the console will read 'How about the weather?'
 
 //CODE
